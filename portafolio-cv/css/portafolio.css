@@ -255,6 +255,7 @@ p {
 /* *************** Hero-Image ******************* */
 .hero-image {
   background-image: var(--hero-image);
+  background-image: url("../assets/hero-image-home.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
